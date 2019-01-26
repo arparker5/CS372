@@ -8,6 +8,8 @@ void countTo(int x)
 {
     for(int i = 1; i <= x; i++)
         cout<<i<<endl;
+
+    cout<<"Finished!"<<endl;
 }
 
 int main()
