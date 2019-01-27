@@ -9,7 +9,7 @@ void countTo(int x)
     for(int i = 1; i <= x; i++)
         cout<<i<<endl;
 
-    cout<<"master branch merge conflict test"<<endl;
+    cout<<"Branch merge conflict test"<<endl;
 }
 
 int main()
